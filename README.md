@@ -20,6 +20,6 @@ This repository contains quiz questions for exam preparation. **Please note:**
 - **No guarantee** that the exam will include questions of similar format or difficulty – they may be easier or harder.  
 - **This material does not replace official study sources** such as lectures or exercises.  
 - The quiz questions are meant as an additional learning aid, but success depends on various factors. Please use other resources for preparation as well.  
-- Use of these materials is at your own discretion. There is no guarantee of accuracy, completeness, or exam success.
+- Use of these materials is at your own discretion. There is no guarantee of correctness, completeness, or exam success.
 
 Good luck with your studies!
