@@ -1,20 +1,23 @@
-# Wichtige Hinweise❗
+# WICHTIGE HINWEISE ❗  
 
-Dieses Repository enthält Quizfragen, die zur Vorbereitung auf die Klausur gedacht sind. **Bitte beachtet dabei Folgendes:**  
+Dieses Repository enthält Quizfragen zur Prüfungsvorbereitung. **Bitte beachtet:**  
 
 - Die Quizze sind auf **ca. 5 Minuten Bearbeitungszeit** ausgelegt und dienen der schnellen Wiederholung von Konzepten.  
 - **Keine Garantie**, dass die Klausur Fragen in ähnlicher Form oder Schwierigkeit enthält – sie können leichter oder schwieriger sein.  
-- Nutzt die Fragen als Ergänzung zum Lernen, aber verlasst euch nicht ausschließlich darauf.  
+- **Dieses Material ersetzt keine offiziellen Lernquellen** wie Vorlesungen oder Übungsaufgaben.  
+- Die Quizfragen sind als zusätzliche Unterstützung gedacht, aber der Lernerfolg hängt von verschiedenen Faktoren ab. Bitte nutzt auch andere Materialien zur Vorbereitung.  
 
-Viel Erfolg bei der Vorbereitung!
+Viel Erfolg bei der Prüfungsvorbereitung! 
 
+---
 
 # IMPORTANT NOTES ❗  
 
-This repository contains quiz questions designed to help you prepare for the exam. **Please keep the following in mind:**  
+This repository contains quiz questions for exam preparation. **Please note:**  
 
 - The quizzes are designed to take **approximately 5 minutes** and serve as a quick review of key concepts.  
-- **No guarantee** that the exam will have questions of similar format or difficulty – they might be easier or harder.  
-- Use these questions as a supplement to your studies, but do not rely solely on them.  
+- **No guarantee** that the exam will include questions of similar format or difficulty – they may be easier or harder.  
+- **This material does not replace official study sources** such as lectures or exercises.  
+- The quiz questions are meant as an additional learning aid, but success depends on various factors. Please use other resources for preparation as well.  
 
-Good luck with your preparation!
+Good luck with your studies!
